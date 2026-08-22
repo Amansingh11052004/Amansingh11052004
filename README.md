@@ -112,13 +112,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amansingh11052004&theme=tokyo-night&hide_border=true" alt="Aman's activity graph" />
 </p>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amansingh11052004/Amansingh11052004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> **Note:** This image only appears once the snake-generator GitHub Action is set up and has run at least once. See setup steps below.
 
 ## 💬 Random Dev Quote
 
